@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    background-color: #616091;
+}
+h1{
+    color: #0a0a0a;
+    text-align: center;
+}
+div{
+    margin: 16px;
+    padding: 8px;
+    background-color: #b3c75b;
+    box-shadow: 2px 5px 5px rgba(0,0,0,0.7);
+    border: none;
+    border-radius: 25px;
+}
+#container{
+    margin: 24px;
+    padding: 24px;
+    color: rgb(17, 17, 17);
+    background-color: #8fb94b;
+    text-align: center;   
+}
+#input{
+    color: rgb(14, 13, 13);
+    background-color: rgb(229, 241, 241);
+    border: none;
+    border-bottom: 1px solid #616091;
+    border-left: 1px solid #616091;   
+}
+#btn{
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(134, 99, 87, 0.562);
+}
